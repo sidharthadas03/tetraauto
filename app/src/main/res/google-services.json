@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263121958851",
+    "firebase_url": "https://tetraautoapp-e5106-default-rtdb.firebaseio.com",
+    "project_id": "tetraautoapp-e5106",
+    "storage_bucket": "tetraautoapp-e5106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263121958851:android:7a67291830ef7e77b22f76",
+        "android_client_info": {
+          "package_name": "com.machintelli.tetraautoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263121958851-mdag1jveq4nstsr5ftbhlee0082pkkg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTiAiEsj44G6gTgTI4xikGmvW_ahFgbFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263121958851-mdag1jveq4nstsr5ftbhlee0082pkkg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package machintelli.com.tetraautoapp;
+package machintelli.com.tetra;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

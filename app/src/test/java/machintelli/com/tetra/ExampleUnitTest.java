@@ -1,4 +1,4 @@
-package machintelli.com.tetraautoapp;
+package machintelli.com.tetra;
 
 import org.junit.Test;
 

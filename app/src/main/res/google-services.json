@@ -8,9 +8,38 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:263121958851:android:7a67291830ef7e77b22f76",
+        "mobilesdk_app_id": "1:263121958851:android:51beb19bc8bca646b22f76",
         "android_client_info": {
-          "package_name": "com.machintelli.tetraautoapp"
+          "package_name": "machintelli.com.tetra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263121958851-mdag1jveq4nstsr5ftbhlee0082pkkg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTiAiEsj44G6gTgTI4xikGmvW_ahFgbFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263121958851-mdag1jveq4nstsr5ftbhlee0082pkkg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263121958851:android:a0a8990c811b0238b22f76",
+        "android_client_info": {
+          "package_name": "machintelli.com.tetraautoapp"
         }
       },
       "oauth_client": [
